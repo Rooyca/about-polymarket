@@ -1,0 +1,6 @@
+requests==2.32.3
+py_clob_client==0.20.0
+python-dotenv==1.0.1
+pytz==2025.1
+pydantic==2.10.6
+websockets==13.1
