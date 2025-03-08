@@ -12,7 +12,7 @@ source activate .venv/bin/activate #.fish
 
 ## Functions
 
-- Fetching Sport events for *today* (If you want to change this behavior go to line 42)
+- Fetching Sport events for *today* (If you want to change this behavior go to [line 42](https://github.com/Rooyca/about-polymarket/blob/master/main.py#L42))
 - Viewing live data from `Open Order Book`
 - Placing Orders (BUY/SELL)
 - Viewing *Open Orders*
